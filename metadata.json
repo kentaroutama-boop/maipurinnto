@@ -1,0 +1,7 @@
+{
+  "name": "SmartPrint Manager",
+  "description": "An intelligent school handout management application that automatically categorizes prints by subject, sets deadlines, explains difficult problems, and generates practice tests using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
